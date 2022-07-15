@@ -4,7 +4,7 @@ Este es un ejemplo de como usar Kotlin en un proyecto Native, por ejemplo proces
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
 [![Node.js](https://img.shields.io/badge/Platform-Native-green)](https://nodejs.org/es/)
 [![LICENSE](https://img.shields.io/badge/Lisence-CC-%23e64545)](https://joseluisgs.github.io/docs/license/)
-![GitHub](https://img.shields.io/github/last-commit/joseluisgs/kotlin-hello-nodejs)
+![GitHub](https://img.shields.io/github/last-commit/joseluisgs/kotlin-hello-native)
 
 <p align="center">
   <a href="https://joseluisgs.github.io/" target="_blank"><img src="https://miro.medium.com/max/1400/1*iDQ77Lohz3F3tx2Fml1msg.png" 
