@@ -25,11 +25,18 @@ Este proyecto muestra cómo hacer una sencilla app que lee un fichero CSV y mues
 El principal objetivo con este proyecto es: 
 - Usar Kotlin como lenguaje para crear aplicaciones nativas, no JVM para cualquier plataforma: Linux, Windows, MacOS, Android, iOS, Raspberry Pi, etc gracias a LLVM y la propia librería de Kotlin nativa.
 - Aplicar librerías de Kotlin Multiplataforma para dotar de funcionalidad.
+- Analizar el funcionamiento de Konan
 
 <p align="center">
   <a href="https://joseluisgs.github.io/" target="_blank"><img src="https://miro.medium.com/max/640/1*tUyPsjM8mctWV9pIrbZKkw.png" 
   width='600px' borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
+
+<p align="center">
+  <a href="https://joseluisgs.github.io/" target="_blank"><img src="https://assets.alexandria.raywenderlich.com/books/3ebb1c99b12b77463e97c3a0f206e4fd46176cd1b8e183816a67338c04b25e5b/images/77e64e792a49b654942d64f23eab270e5bd9a71d29364fd892e21505b2cc630f/original.png" 
+  width='600px' borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+</p>
+
 
 ## Uso
 Puedes llamar a la app usando el script de Gradle run o build
