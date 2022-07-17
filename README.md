@@ -17,6 +17,7 @@ Este es un ejemplo de como usar Kotlin en un proyecto Native, por ejemplo proces
     - [Compilación y ejecución](#compilación-y-ejecución)
   - [Autor](#autor)
     - [Contacto](#contacto)
+    - [¿Un café?](#un-café)
   - [Licencia de uso](#licencia-de-uso)
 
 ## Acerca de
@@ -107,6 +108,9 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
     height="30">
     </a>    
 </p>
+
+### ¿Un café?
+<p><a href="https://www.buymeacoffee.com/joseluisgs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="48" alt="joseluisgs" /></a></p><br><br><br>
 
 ## Licencia de uso
 
